@@ -29,7 +29,7 @@
     />
     <link rel="manifest" href="source/dop files/favicon/site.webmanifest" />
     <link rel="stylesheet" href="source/styles/mycss.css" />
-    <title>Globerys</title>
+    <title>Артур лох</title>
   </head>
   <body>
     <header>
