@@ -29,7 +29,7 @@
     />
     <link rel="manifest" href="source/dop files/favicon/site.webmanifest" />
     <link rel="stylesheet" href="source/styles/mycss.css" />
-    <title>ArturLOX</title>
+    <title>Globerys</title>
   </head>
   <body>
     <header>
